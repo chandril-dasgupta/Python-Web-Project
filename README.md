@@ -1,6 +1,6 @@
 This is a Python Project for shops to create a simple website for customers by entering all the required details.
 
-1. Open the file
+1. Run the Code
 2. Enter the required informations one after the other
 3. The website will be created
 4. Open the website from your files
